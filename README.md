@@ -7,4 +7,4 @@ Step 1- Download the mysql.connector extension using the command "pip install my
 
 Step 2-Run the following code using object-oriented programming.
 
-[![image2.png](https://i.postimg.cc/B6VKBw6w/image2.png)](https://postimg.cc/r05s8j5S)
+[![image2.png](https://i.postimg.cc/66H8RPSr/image2.png)](https://postimg.cc/dDyQc5J3)
